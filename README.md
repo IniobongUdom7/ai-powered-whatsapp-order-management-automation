@@ -77,7 +77,7 @@ Before production use, configure Gmail to notify the business's approved support
 
 ## Demo
 
-- **Loom walkthrough:** Add the public Loom share link here when supplied.
+[Watch the Loom walkthrough](https://www.loom.com/share/2155c85cca924e25b4e2f7695567e84e)
 
 ## Setup overview
 
